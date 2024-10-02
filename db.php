@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "allinux"; // Your DB username
-$password = "linuxlinux.1"; // Your DB password
+$username = "allinux"; 
+$password = ""; 
 $dbname = "CAT1";
 
 // Create connection
